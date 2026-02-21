@@ -19,6 +19,8 @@ project-folder/
 │── Subject.json
 │── output.csv
 │── README.md
+│── screenshot.png
+
 ```
 
 ---
