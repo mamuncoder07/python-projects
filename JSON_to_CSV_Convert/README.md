@@ -1,1 +1,88 @@
+# JSON to CSV Converter (Python)
+
+This is a simple Python project that converts data from a JSON file into a CSV file.
+
+## 📌 Features
+* Reads data from a JSON file
+* Automatically creates CSV headers
+* Converts multiple records
+* Saves output as a `.csv` file
+* Error handling included
+
+---
+
+## 📂 Project Structure
+
+```
+project-folder/
+│── JSON_to_CSV_Convert.py
+│── Subject.json
+│── output.csv
+│── README.md
+```
+
+---
+
+## 🧾 Sample JSON Input (`Subject.json`)
+
+```json
+[
+  {
+    "Name": "Mamun",
+    "age": 21,
+    "birthyear": 2004
+  },
+  {
+    "Name": "Rahul",
+    "age": 22,
+    "birthyear": 2003
+  }
+]
+```
+
+---
+
+## ▶️ How to Run
+1. Install Python (3.x recommended)
+2. Place your JSON file in the project folder
+3. Run the script:
+
+```bash
+python JSON_to_CSV_Convert.py
+```
+
+4. Output file `output.csv` will be created automatically.
+
+---
+
+## 🧠 How It Works
+* The program reads JSON data using the `json` module.
+* Extracts keys as CSV headers.
+* Writes records line-by-line into a CSV file.
+
+---
+
+## ✅ Example Output (`output.csv`)
+
+```
+Name,age,birthyear
+Mamun,21,2004
+Rahul,22,2003
+```
+
+---
+
+## ⚠️ Requirements
+* Python 3.x
+* No external libraries needed
+
+---
+
+## 👨‍💻 Author
+Mamun Reja
+
+---
+
+## ⭐ GitHub
+If you like this project, give it a star ⭐
 
