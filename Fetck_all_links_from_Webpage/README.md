@@ -45,8 +45,6 @@ The extracted links will be stored in `myLinks.txt`.
 ```
 Day03_Web_Link_Scraper/
 │── main.py
-│── myLinks.txt
-│── screenshot.png
 │── README.md
 ```
 
