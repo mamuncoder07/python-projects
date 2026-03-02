@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>B.Tech CSE (AI & ML) Student | Aspiring AI Engineer</b><br>
-  <i>Passionate about Machine Learning, Deep Learning & Software Development</i>
+  <i>Passionate about Machine Learning, Deep Learning & Data Science</i>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ Hello! I am **Mamun Reja**, a **B.Tech Computer Science (AI & ML) student** from
 🤖 Artificial Intelligence
 📊 Machine Learning
 🧠 Deep Learning
-💻 Software Development
+💻 Data Science
 
 I am currently building projects regularly to improve my practical skills and prepare for internships and real-world opportunities.
 
@@ -55,7 +55,7 @@ My focus is on:
 
 ## 🎯 Career Goal
 
-🚀 Become a skilled AI Engineer / Software Developer
+🚀 Become a skilled AI Engineer / Data Scientist
 💼 Secure top internships in AI/ML domain
 🏆 Build impactful real-world projects
 📈 Continuously improve technical expertise
