@@ -101,7 +101,7 @@ dist/Video_Downloader.exe
 
 ## 📷 Screenshot
 
-> Add your application screenshot here
+![App Screenshot](screenshot.png)
 
 ---
 
