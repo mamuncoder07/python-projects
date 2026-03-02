@@ -101,7 +101,7 @@ dist/Video_Downloader.exe
 
 ## 📷 Screenshot
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Video_Downloader/Screenshot.png)
 
 ---
 
